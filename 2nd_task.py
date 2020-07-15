@@ -6,3 +6,4 @@ def average_cal(*args):
         average.append(sum(pair)/len(pair))
     return average
 print(average_cal([4,6,7], [7,2,5]))
+print('hello git branhes')
