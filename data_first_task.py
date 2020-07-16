@@ -3,3 +3,4 @@ with open("first task.py","a") as first_data:
 with open("first task.py","r") as second:
     content_read = second.read()
 print(content_read)
+shahab
